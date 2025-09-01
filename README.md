@@ -55,8 +55,8 @@ Then Taking a closer look to the Wave
 The Modulation and extraction of the Enveloppeis mehr Clear
 <img width="1365" height="697" alt="fdgdfgd" src="https://github.com/user-attachments/assets/bd3c723e-0a7d-4553-a18e-d85c4057acfb" />
 
-The Taking a mehr Closer Look 
-Hier is mehr Clear and showing nicely the Modulation, The Blue is the Wave directly after the Rectifier.
+The Taking a more Closer Look 
+Hier is more Clear and showing nicely the Modulation, The Blue is the Wave directly after the Rectifier.
 <img width="1366" height="694" alt="gfnfnfdn" src="https://github.com/user-attachments/assets/0da35866-3d0f-4b5b-b689-5058a566df0a" />
 
 The Output Voice  :
